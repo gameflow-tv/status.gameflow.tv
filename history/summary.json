@@ -1,38 +1,42 @@
 [
   {
     "name": "Gameflow.tv",
-    "url": "https://gameflow.tv",
-    "icon": "https://favicons.githubusercontent.com/gameflow.tv",
+    "url": "$URL_GAMEFLOW_TV",
+    "icon": "https://gameflow.tv/favicon.ico",
     "slug": "gameflow-tv",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 298,
-    "timeWeek": 298,
-    "timeMonth": 298,
-    "timeYear": 298,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 241,
+    "timeDay": 241,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
+    "dailyMinutesDown": {
+      "2021-08-22": 0
+    }
   },
   {
     "name": "API",
-    "url": "https://api.gameflow.tv",
-    "icon": "https://favicons.githubusercontent.com/api.gameflow.tv",
+    "url": "$URL_API_GAMEFLOW_TV",
+    "icon": "https://gameflow.tv/favicon.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 178,
+    "timeDay": 178,
+    "timeWeek": 178,
+    "timeMonth": 178,
+    "timeYear": 178,
+    "dailyMinutesDown": {
+      "2021-08-22": 0
+    }
   }
 ]
