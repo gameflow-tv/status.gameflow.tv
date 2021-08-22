@@ -4,9 +4,17 @@ repo: status.gameflow.tv # The name of this repository
 
 sites:
   - name: Gameflow.tv
-    url: https://gameflow.tv
+    url: $URL_GAMEFLOW_TV
+    icon: https://gameflow.tv/favicon.ico
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "status": "ok" }'
   - name: API
-    url: https://api.gameflow.tv
+    url: $URL_API_GAMEFLOW_TV
+    icon: https://gameflow.tv/favicon.ico
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "status": "OK" }'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,10 +22,10 @@ status-website:
   cname: status.gameflow.tv
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Gameflow Statuspage
   theme: dark
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Gameflow service status**"
+  introMessage: If you beleive there is an incedent that our system have not picked up pleas contact us on discord!
   navbar:
     - title: Status
       href: /
