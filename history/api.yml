@@ -1,7 +1,7 @@
-url: https://api.gameflow.tv
-status: up
-code: 200
-responseTime: 259
-lastUpdated: 2021-08-21T23:47:42.724Z
+url: $URL_API_GAMEFLOW_TV
+status: down
+code: 400
+responseTime: 121
+lastUpdated: 2021-08-22T00:02:11.587Z
 startTime: Sat Aug 21 2021 23:46:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
