@@ -4,7 +4,7 @@ repo: status.gameflow.tv # The name of this repository
 
 sites:
   - name: Gameflow.tv
-    url: $URL_GAMEFLOW_TV
+    url:  https://gameflow.tv
     icon: https://gameflow.tv/favicon.ico
     headers:
       - "Content-Type: application/json"
