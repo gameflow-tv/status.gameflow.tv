@@ -4,19 +4,19 @@
     "url": "https://gameflow.tv",
     "icon": "https://gameflow.tv/favicon.ico",
     "slug": "gameflow-tv",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 330,
-    "timeWeek": 349,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 220,
+    "timeDay": 301,
+    "timeWeek": 337,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2021-09-11": 0
+      "2021-09-11": 65
     }
   },
   {
