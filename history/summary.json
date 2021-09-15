@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 248,
-    "timeWeek": 269,
+    "timeDay": 246,
+    "timeWeek": 267,
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {}
@@ -22,19 +22,19 @@
     "url": "https://api.gameflow.tv/health",
     "icon": "https://gameflow.tv/favicon.ico",
     "slug": "backend",
-    "status": "down",
-    "uptime": "6.87%",
-    "uptimeDay": "6.87%",
-    "uptimeWeek": "6.87%",
-    "uptimeMonth": "6.87%",
-    "uptimeYear": "6.87%",
-    "time": 136,
-    "timeDay": 136,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "status": "up",
+    "uptime": "6.75%",
+    "uptimeDay": "6.75%",
+    "uptimeWeek": "6.75%",
+    "uptimeMonth": "6.75%",
+    "uptimeYear": "6.75%",
+    "time": 166,
+    "timeDay": 166,
+    "timeWeek": 166,
+    "timeMonth": 166,
+    "timeYear": 166,
     "dailyMinutesDown": {
-      "2021-09-15": 22
+      "2021-09-15": 23
     }
   }
 ]
