@@ -9,7 +9,12 @@ sites:
     #headers:
     #  - "Content-Type: application/json"
     #body: '{ "status": "ok" }'
-
+  - name: Backend
+    url: https://api.gameflow.tv/health
+    icon: https://gameflow.tv/favicon.ico
+    headers:
+      - "Content-Type: application/json"
+    body: '{"status":"UP"}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
