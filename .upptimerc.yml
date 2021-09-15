@@ -10,7 +10,7 @@ sites:
     #  - "Content-Type: application/json"
     #body: '{ "status": "ok" }'
   - name: API
-    url: $URL_API_GAMEFLOW_TV
+    url: https://api.gameflow.tv/health
     icon: https://gameflow.tv/favicon.ico
     headers:
       - "Content-Type: application/json"
