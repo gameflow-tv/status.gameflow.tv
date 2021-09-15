@@ -10,11 +10,11 @@ sites:
     #  - "Content-Type: application/json"
     #body: '{ "status": "ok" }'
   - name: API
-    url: https://api.gameflow.tv/health
+    url: $URL_API_GAMEFLOW_TV
     icon: https://gameflow.tv/favicon.ico
     headers:
       - "Content-Type: application/json"
-    body: '{ "status": "UP" }'
+    body: '{"status":"UP"}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
