@@ -1,7 +1,7 @@
 url: https://api.gameflow.tv/health
-status: down
-code: 502
-responseTime: 263
-lastUpdated: 2021-09-18T21:57:12.366Z
+status: up
+code: 200
+responseTime: 323
+lastUpdated: 2021-09-18T22:05:08.759Z
 startTime: Wed Sep 15 2021 16:56:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
