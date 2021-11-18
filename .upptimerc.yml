@@ -5,13 +5,13 @@ repo: status.gameflow.tv # The name of this repository
 sites:
   - name: Gameflow.tv
     url:  https://gameflow.tv
-    icon: https://gameflow.tv/favicon.ico
+    icon: https://app.gameflow.tv/favicon.ico
     #headers:
     #  - "Content-Type: application/json"
     #body: '{ "status": "ok" }'
-  - name: Backend
+  - name: Gameflow API
     url: https://api.gameflow.tv/.well-known/apollo/server-health
-    icon: https://gameflow.tv/favicon.ico
+    icon: https://app.gameflow.tv/favicon.ico
     #headers:
     #  - "Content-Type: application/json"
     #body: '{"status":"UP"}'
@@ -21,11 +21,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.gameflow.tv
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Gameflow Statuspage
+  logoUrl: https://static.gameflow.tv/icon.svg
+  name: Gameflow status page
   theme: dark
   introTitle: "**Gameflow service status**"
-  introMessage: If you beleive there is an incedent that our system have not picked up pleas contact us on discord!
+  introMessage: If you believe there is an incident that our system have not picked up please contact us on Discord!
   navbar:
     - title: Status
       href: /
