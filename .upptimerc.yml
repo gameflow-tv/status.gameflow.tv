@@ -10,7 +10,7 @@ sites:
     #  - "Content-Type: application/json"
     #body: '{ "status": "ok" }'
   - name: Backend
-    url: https://api.gameflow.tv/health
+    url: https://api.gameflow.tv/.well-known/apollo/server-health
     icon: https://gameflow.tv/favicon.ico
     #headers:
     #  - "Content-Type: application/json"
