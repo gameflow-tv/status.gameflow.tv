@@ -1,26 +1,19 @@
-# Change these first
-owner: gameflow-tv # Your GitHub organization or username, where this repository lives
-repo: status.gameflow.tv # The name of this repository
+owner: gameflow-tv 
+repo: status.gameflow.tv 
 
 sites:
   - name: Gameflow.tv
     url:  https://gameflow.tv
     icon: https://app.gameflow.tv/favicon.ico
-    #headers:
-    #  - "Content-Type: application/json"
-    #body: '{ "status": "ok" }'
   - name: Gameflow API
     url: https://api.gameflow.tv/.well-known/apollo/server-health
     icon: https://app.gameflow.tv/favicon.ico
     #headers:
     #  - "Content-Type: application/json"
-    #body: '{"status":"UP"}'
+    body: '{"status":"pass"}'
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.gameflow.tv
-  # baseUrl: /your-repo-name
   logoUrl: https://static.gameflow.tv/icon.svg
   name: Gameflow status page
   theme: dark
@@ -29,8 +22,3 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
