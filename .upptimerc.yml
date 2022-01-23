@@ -8,8 +8,8 @@ sites:
   - name: Gameflow API
     url: https://api.gameflow.tv/.well-known/apollo/server-health
     icon: https://app.gameflow.tv/favicon.ico
-    #headers:
-    #  - "Content-Type: application/json"
+    headers:
+      - "Content-Type: application/json"
     body: '{"status":"pass"}'
 
 status-website:
