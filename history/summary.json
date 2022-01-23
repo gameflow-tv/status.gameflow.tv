@@ -29,18 +29,16 @@
     "icon": "https://app.gameflow.tv/favicon.ico",
     "slug": "gameflow-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 158,
     "timeWeek": 226,
     "timeMonth": 233,
     "timeYear": 234,
-    "dailyMinutesDown": {
-      "2022-01-23": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
