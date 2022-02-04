@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 339,
-    "timeWeek": 303,
-    "timeMonth": 318,
-    "timeYear": 274,
+    "time": 275,
+    "timeDay": 333,
+    "timeWeek": 320,
+    "timeMonth": 323,
+    "timeYear": 275,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://app.gameflow.tv/favicon.ico",
     "slug": "gameflow-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 234,
-    "timeDay": 273,
-    "timeWeek": 239,
-    "timeMonth": 227,
-    "timeYear": 234,
-    "dailyMinutesDown": {
-      "2022-02-02": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 235,
+    "timeDay": 274,
+    "timeWeek": 245,
+    "timeMonth": 228,
+    "timeYear": 235,
+    "dailyMinutesDown": {}
   }
 ]
