@@ -4,35 +4,39 @@
     "url": "https://gameflow.tv",
     "icon": "https://app.gameflow.tv/favicon.ico",
     "slug": "gameflow-tv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 357,
-    "timeWeek": 376,
+    "timeDay": 342,
+    "timeWeek": 370,
     "timeMonth": 344,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   },
   {
     "name": "Gameflow API",
     "url": "https://api.gameflow.tv/.well-known/apollo/server-health",
     "icon": "https://app.gameflow.tv/favicon.ico",
     "slug": "gameflow-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 266,
+    "timeDay": 265,
     "timeWeek": 262,
-    "timeMonth": 239,
+    "timeMonth": 240,
     "timeYear": 238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   }
 ]
