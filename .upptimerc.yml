@@ -16,7 +16,7 @@ status-website:
   name: Gameflow status page
   theme: dark
   introTitle: "**Gameflow service status**"
-  introMessage: If you believe there is an incident that our system have not picked up please contact us on Discord!
+  introMessage: If you believe there is an incident that our system have not picked up please contact us on Discord!!
   navbar:
     - title: Status
       href: /
