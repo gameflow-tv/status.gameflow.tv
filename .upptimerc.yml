@@ -4,7 +4,7 @@ repo: status.gameflow.tv
 sites:
   - name: Gameflow.tv
     url:  https://gameflow.tv
-    icon: https://app.gameflow.tv/favicon.ico
+    icon: https://gameflow.tv/favicon.ico
   - name: Gameflow API
     url: https://api.gameflow.tv/.well-known/apollo/server-health
     icon: https://app.gameflow.tv/favicon.ico
