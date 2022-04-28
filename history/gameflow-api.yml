@@ -1,7 +1,7 @@
 url: https://api.gameflow.tv/.well-known/apollo/server-health
 status: up
 code: 200
-responseTime: 275
-lastUpdated: 2022-04-27T23:01:28.164Z
+responseTime: 258
+lastUpdated: 2022-04-28T23:01:31.361Z
 startTime: Thu Nov 18 2021 08:28:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
